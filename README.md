@@ -70,7 +70,7 @@ A CRUD RESTful API for managing employees, built using Spring Boot, Spring Data 
 ---
 
 ## 🧑‍💻 Author
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Mohamed Amgad ** - [GitHub Profile]([https://github.com/yourusername](https://github.com/mohamedamgad200))
 
 Feel free to contribute to this repository by submitting issues or pull requests!
 
